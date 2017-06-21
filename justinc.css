@@ -1,0 +1,46 @@
+.body {
+background-image: url(cool.jpg); 
+color: aliceblue; 
+background-repeat: no-repeat;
+background-size: cover;  
+}  
+
+.page1 {
+margin-top: 14px;
+background-color: Black;
+width: 100%; 
+height: 150px; 
+opacity: 0.9;    
+}
+
+.button {
+    padding: 10px 22px;
+    cursor: pointer;
+    font-size: 1 em; 
+    text-decoration: none;
+    background-color: red; 
+    color: white;
+}
+
+.button:hover {
+    background-color: darkred;
+}
+
+ .ItsMe {
+    margin-top: -8px;
+    margin-right: -1200px;
+    width: 500px;
+    height: 500px; 
+}     
+ .body1{
+    background-image: url(cool.jpg);     
+    color: aliceblue;
+     background-repeat:no-repeat;
+     background-size:cover;                  
+}
+.MeAgain{
+    margin-top: -800px;
+    margin-right: -1200px;
+    width: 500px;
+    height:500px;
+}
